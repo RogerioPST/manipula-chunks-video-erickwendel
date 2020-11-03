@@ -71,48 +71,51 @@ npm i -D http-server
 	},
 ```
 </li>
-<li>1
+<li>
+	<ol><li>1
 Conceitos fundamentais sobre o ciclo de vida do Javascript
 Neste módulo, você aprenderá conceitos importantes para entender como a máquina virtual funciona. Vou te mostrar em detalhes sobre Call Stack, Memory Heap, Closures, Immediately Invoked Function Expression (IIFE), Currying e muitos outros temas, além do conceito de Prototype Chain e Javascript Isomórfico.
+		</li>
+			<li>
 2
 Data Types
 Afinal, Javascript é ou não é uma linguagem de programação tipada? Neste módulo, você aprenderá sobre os principais tipos de dados, tais como Map, WeakMap, Symbol, Generators e Proxy. Vamos ver também funções da Standard API como Infinity, NaN, undefined e globalThis.
-3
+</li><li>3
 Javascript Fundamental
 Vamos fazer uma revisão em funções nativas da linguagem, como os principais métodos de Objects, o objeto Promise, a palavra chave arguments em Functions, a diferença entre as funções .call e .apply ,além de funções globais do Javascript.
-4
+</li><li>4
 Javascript Testing
 Este módulo vai te ajudar a entender os métodos nativos do Node.js para trabalhar com asserções em seus testes, além de conceitos chave como TDD, BDD e Use Cases.
-5
+</li><li>5
 Node Package Manager (NPM)
 Você vai criar seu próprio pacote NPM, aprendendo como versionar pacotes usando os principais padrões semânticos, além de trabalhar com os padrões Multi e Mongo Repositories.
-6
+</li><li>6
 Logging and Error Handling
 Neste módulo você aprenderá como manipular erros a partir de classes de erro, padrões de projeto e pacotes populares de mercado, além de conhecer ferramentas cloud para aumentar a produtividade no mapeamento de exceções.
-7
+</li><li>7
 Performance
 Neste módulo você aprenderá as funções nativas do Node.js para inspeção e resolução de gargalos de performance, além de analisar um programa existente identificando possíveis problemas.
-8
+</li><li>8
 Expressões Regulares - Regex
 Neste módulo você aprenderá as expressões populares e principais práticas na hora de criar expressões.
-9
+</li><li>9
 Design Patterns
 Neste módulo, você aprenderá para que servem os padrões de projeto. Vai entender os padrões mais usados além desenvolver projetos para reutilização de código, manipulação de estado além de interceptação de funções ativas.
-10
+</li><li>10
 Node.js Command Line Interface (CLI)
 Neste módulo você aprenderá sobre como trabalhar com arquivos, executar comandos shell de forma segura, além de entender os principais problemas em aplicações de linha de comando.
-11
+</li><li>11
 Node.js Streams
 Neste módulo você aprenderá o que são e para que servem as Node.js Streams, trabalhando com informações sob demanda e alta escala. Vai entender as categorias de Streams além de boas práticas.
-12
+</li><li>12
 Node.js long-running processing
 Node.js é bloqueante? Neste módulo você aprenderá sobre como processar funções de longa duração usando Worker Threads, Child processes e estratégias para programação não bloqueante.
-13
+</li><li>13
 Javascript Web Protocols
 Neste módulo, você vai entender porque web protocols existem e como selecioná-los de acordo com sua necessidade, tais como Sockets HTTP e UDP, HTTPS, HTTP 2 e mais.
-14
+</li><li>14
 Javascript Security
 Neste módulo você aprenderá boas práticas de segurança em aplicações Javascript, além de execução de comandos via usuário.
-	
+</li></ol>	
 </li>
 <ul>
